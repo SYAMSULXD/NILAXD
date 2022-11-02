@@ -1,0 +1,911 @@
+10-28 20:17:24.674  1781  1850 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10188; state: DISABLED
+10-28 20:17:25.458  1781  6630 W _V_PackageManager: setEnabledSetting  packageName:com.facebook.appmanager className:com.facebook.oxygen.appmanager.webinstall.WebInstallAppLinkActivity newState:2 userId:0 callingPackage:null callingUid:10122 callingPid:6746
+10-28 20:17:25.459  1781  2073 W _V_PackageManager: setEnabledSetting  packageName:com.facebook.appmanager className:com.facebook.oxygen.appmanager.webinstall.WebInstallAppLinkActivityV2 newState:1 userId:0 callingPackage:null callingUid:10122 callingPid:6746
+10-28 20:17:25.465  1781  2453 W _V_PackageManager: setEnabledSetting  packageName:com.facebook.appmanager className:com.facebook.oxygen.appmanager.webinstall.WebInstallActivity newState:2 userId:0 callingPackage:null callingUid:10122 callingPid:6746
+10-28 20:17:29.202  6746  7244 E ActivityThread: Failed to find provider info for com.facebook.appmanager.nekodirect
+10-28 20:17:34.626  1781  7858 E ActivityManager:   73% 662/zygote: 65% user + 7.8% kernel / faults: 596746 minor
+10-28 20:17:34.627  1781  7858 E ActivityManager:   4% 683/android.hardware.graphics.composer@2.1-service: 1.3% user + 2.6% kernel / faults: 674 minor
+10-28 20:17:34.627  1781  7858 E ActivityManager:   1.1% 674/android.hardware.audio.service.mediatek: 0.3% user + 0.7% kernel / faults: 1196 minor
+10-28 20:17:34.627  1781  7858 E ActivityManager:  +0% 6746/com.facebook.appmanager: 0% user + 0% kernel
+10-28 20:18:24.674  1781  3134 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-28 20:18:26.674  1781  3374 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-28 20:20:05.674  1781  2074 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-28 20:29:34.674  1781  6630 E _V_InputMethodManagerService: mCurId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME ,mCurMethodId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+10-28 20:50:48.674  1781  1781 E _V_Sensor_NativeNotification: ACTION_BATTERY_CHANGED plugged = 0
+10-28 21:08:01.674  1781  1900 E VerityUtils: Failed to measure fs-verity, errno 1: /product/app/YouTube/YouTube.apk
+10-28 21:18:35.674  1781  3371 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-28 23:01:26.674  1781  6967 E _V_InputMethodManagerService: mCurId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME ,mCurMethodId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+10-28 23:11:08.674  1781  3263 E _V_InputMethodManagerService: mCurId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME ,mCurMethodId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+10-28 23:31:16.674  1781  2089 D _V_VivoPowerManagerService: button light 0 222 trun off
+10-28 23:31:20.674  1781  3371 D _V_VivoPowerManagerService: button light 0 222 trun off
+10-28 23:31:40.674  1781  1800 D _V_VivoPowerManagerService: button light 0 222 trun off
+10-29 01:20:47.674  1781  1839 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 04:03:26.674  1781  3368 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 04:03:33.118 22674 22674 E ActivityThread: Failed to find provider info for com.vivo.vivoalgoservicecontentprovider
+10-29 04:03:33.129 22674 22674 E ActivityThread: Failed to find provider info for com.vivo.vivoalgoservicecontentprovider
+10-29 04:03:33.371 22674 22674 E _V_ANRManager: mPackageName = com.vivo.gallery, Get anr service = com.vivo.app.anr.IANRManager$Stub$Proxy@769ef0d
+10-29 04:48:04.674  1781  5348 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 06:39:31.674  1781  1839 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 07:39:52.674  1781  2738 E _V_InputMethodManagerService: mCurId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME ,mCurMethodId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+10-29 07:45:35.254  1781 15182 E ActivityManager:   4.9% 674/android.hardware.audio.service.mediatek: 4% user + 0.8% kernel / faults: 672 minor
+10-29 07:48:11.674  1781  3367 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 07:58:18.674  1781  3193 E _V_InputMethodManagerService: mCurId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME ,mCurMethodId=com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME
+10-29 08:25:27.674  1781  2089 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 08:30:44.674 32090 32090 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 08:42:04.674  1781  2738 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 08:46:23.674  1781  3135 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 08:48:29.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 08:48:38.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 09:15:15.674  1781  6971 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 09:30:07.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 09:39:00.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 09:50:32.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 15:24:02.674  1781  3263 D _V_VivoPowerManagerService: button light 0 111 trun off
+10-29 16:00:26.674  1781  3325 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 16:00:27.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 18:29:04.674  1781  3192 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 19:17:49.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 19:28:00.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 19:34:50.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 20:04:33.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 20:15:41.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 20:29:02.674  1781  5588 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 21:10:45.116   704   818 I libPowerHal: [perfLockAcq] idx:1 hdl:51674 hint:1159 pid:735 duration:200 lock_user:vperf@1.0-servi => ret_hdl:51674
+10-29 21:10:45.317   704   818 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:51674
+10-29 21:10:45.317   704   818 I libPowerHal: [perfLockRel] hdl:51674, idx:1
+10-29 21:10:45.337   735  4480 I mtkpower_client: perf_lock_rel, hdl:51674, tid:4480
+10-29 21:10:45.338   704   818 I libPowerHal: [perfLockRel] hdl:51674, idx:-1
+10-29 21:11:08.674   735   735 I mtkpower_client: perf_lock_rel, hdl:51788, tid:735
+10-29 21:11:08.674   704   818 I libPowerHal: [perfLockRel] hdl:51788, idx:3
+10-29 21:13:19.674   704   818 I libPowerHal: [perfLockAcq] idx:3 hdl:52202 hint:1173 pid:735 duration:0 lock_user:vperf@1.0-servi => ret_hdl:52202
+10-29 21:15:08.721   735  5674 I mtkpower_client: perf_lock_rel, hdl:52582, tid:5674
+10-29 21:15:53.674   704   818 I libPowerHal: [perfLockAcq] idx:1 hdl:52651 hint:1157 pid:735 duration:80 lock_user:vperf@1.0-servi => ret_hdl:52651
+10-29 21:15:53.674   704   818 I libPowerHal: 1157: cpu_ctrl set cpu freq: 1000000 -1 1000000 -1
+10-29 21:15:58.460   704   818 I libPowerHal: [perfLockAcq] idx:0 hdl:52674 hint:1150 pid:735 duration:2000 lock_user:vperf@1.0-servi => ret_hdl:52674
+10-29 21:15:58.638   735   735 I mtkpower_client: perf_lock_rel, hdl:52674, tid:735
+10-29 21:15:58.638   704   818 I libPowerHal: [perfLockRel] hdl:52674, idx:0
+10-29 21:17:37.674   704   818 I libPowerHal: [perfNotifyAppState] pack:com.facebook.katana, act:com.facebook.katana.LoginActivity, state:0, pid:6395, uid:99910213, fps:60
+10-29 21:17:45.618   735  6743 I mtkpower_client: perf_lock_rel, hdl:52932, tid:6743
+10-29 21:19:23.674  1781  2738 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 21:19:25.674   660   927 E netd    : QUERY_RESOLV_NETID command.uid:10191, nid:0
+10-29 21:21:21.299  7910  8607 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfebe6f0] state=DEQUEUED 0xb4000077bfeb0950 frame=2674 [ 640x 360: 640,32315659]
+10-29 21:21:21.300  7910  8607 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfebe6f0] state=DEQUEUED 0xb4000077bfeb0950 frame=2674 [ 640x 360: 640,32315659]
+10-29 21:23:23.674  7910  8607 E BufferQueueProducer: [SurfaceView[com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity]#4(BLAST Consumer)4](id:1ee60000000a,api:3,p:7910,c:7910) waitForFreeSlotThenRelock TIMED_OUT 0
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=2 mMaxDequeuedBufferCount=21
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=0 mLegacyBufferDrop=1
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=1723
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMPFIFO(0):
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceView[com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity]#4(BLAST Consumer)4, mConnectedApi=3, mConsumerUsageBits=2304, mId=1ee60000000a, producer=[7910:com.google.android.youtube], consumer=[7910:com.google.android.youtube])
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMPSlots:
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe992b0] state=DEQUEUED 0xb4000077bfe9a030 frame=1714 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfe95ef0] state=DEQUEUED 0xb4000077bfe9be90 frame=1701 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe8d6d0] state=DEQUEUED 0xb4000077bfe9bb30 frame=1713 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe9c0d0] state=DEQUEUED 0xb4000077bfea3270 frame=1711
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: Slots:
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe992b0] state=DEQUEUED 0xb4000077bfe9a030 frame=1714 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfe95ef0] state=DEQUEUED 0xb4000077bfe9be90 frame=1701 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe8d6d0] state=DEQUEUED 0xb4000077bfe9bb30 frame=1713 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe9c0d0] state=DEQUEUED 0xb4000077bfea3270 frame=1711 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [04:0xb4000077bfeac270] state=DEQUEUED 0xb4000077bfe9b470 frame=1716 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [05:0xb4000077bfea3390] state=DEQUEUED 0xb4000077bfea99f0 frame=1708 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [06:0xb4000077bfe96a30] state=DEQUEUED 0xb4000077bfea7b90 frame=1709 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [07:0xb4000077bfeaced0] state=DEQUEUED 0xb4000077bfe96fd0 frame=1706 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [08:0xb4000077bfeabf10] state=DEQUEUED 0xb4000077bfea90f0 frame=1707 [ 640x 360: 640,7F000001]
+10-29 21:23:50.674  7910  8607 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeab070] state=DEQUEUED 0xb4000077bfe94090 frame=1712 [ 640x 360: 
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=2 mMaxDequeuedBufferCount=21
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=0 mLegacyBufferDrop=1
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=3643
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMPFIFO(0):
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceView[com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity]#4(BLAST Consumer)4, mConnectedApi=3, mConsumerUsageBits=2304, mId=1ee60000000a, producer=[7910:com.google.android.youtube], consumer=[7910:com.google.android.youtube])
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMPSlots:
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe992b0] state=DEQUEUED 0xb4000077bfe9a030 frame=3624 [ 640x 360: 640,7F000001]
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfe95ef0] state=DEQUEUED 0xb4000077bfe9be90 frame=3629 [ 640x 360: 640,7F000001]
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe8d6d0] state=DEQUEUED 0xb4000077bfe9bb30 frame=3636 [ 640x 360: 640,7F000001]
+10-29 21:24:54.674  7910  8607 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe9c0d0] state=DEQUEUED 0xb4000077bfea3270 frame=3640
+10-29 21:24:55.710  7910  8607 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=3674
+10-29 21:24:55.710  7910  8607 E BufferQueueProducer: BQDUMP >[09:0xb4000077bfeab070] state=ACQUIRED 0xb4000077bfe94090 frame=3674 [ 640x 360: 
+10-29 21:24:55.748  7910  8607 E BufferQueueProducer: BQDUMP >[09:0xb4000077bfeab070] state=ACQUIRED 0xb4000077bfe94090 frame=3674 [ 640x 360: 
+10-29 21:24:55.777  7910  8607 E BufferQueueProducer: BQDUMP >[09:0xb4000077bfeab070] state=ACQUIRED 0xb4000077bfe94090 frame=3674 [ 640x 360: 
+10-29 21:24:55.909  7910  8607 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeab070] state=DEQUEUED 0xb4000077bfe94090 frame=3674 [ 640x 360: 
+10-29 21:24:56.341  7910  8607 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeab070] state=DEQUEUED 0xb4000077bfe94090 frame=3674 [ 640x 360: 
+10-29 21:24:56.403  7910  8607 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeab070] state=DEQUEUED 0xb4000077bfe94090 frame=3674 [ 640x 360: 
+10-29 21:25:37.371   674   841 E AudioALSAStreamManager: setScreenState, mStreamInVector[0]->getInputFlags() = 0x0
+10-29 21:26:40.962   674   841 E AudioALSAStreamManager: setScreenState, mStreamInVector[0]->getInputFlags() = 0x0
+10-29 21:26:53.674   704   818 I libPowerHal: [perfLockRel] hdl:53340, idx:3
+10-29 21:27:01.674  1081  1081 E ipsec_policy_mont: matchifbyaddr failed
+10-29 21:27:01.674  1081  1081 E ipsec_policy_mont: getifbyaddr failed, interface cannot forward
+10-29 21:27:13.674  3466  3906 E _V_pem  : readLine /d/fuelsummary/roll_current error:/d/fuelsummary/roll_current: open failed: ENOENT (No such file or directory)
+10-29 21:28:22.369   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:28:22.370   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:28:22.377   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:28:22.483   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:28:22.488   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:28:23.197  1052 11674 E aao_buf_mgr: [updateInfo]  pAEResult is NULL 
+10-29 21:28:23.197  1052 11674 E aao_buf_mgr:  (updateInfo){#617:vendor/mediatek/proprietary/hardware/mtkcam/aaa/source/mt6765/buf_mgr/AAOBufMgr.cpp}
+10-29 21:28:23.197  1052 11674 E aao_buf_mgr: [updateInfo] Failed to get FLASHResult for MagicNum(1)
+10-29 21:28:23.197  1052 11674 E aao_buf_mgr:  (updateInfo){#625:vendor/mediatek/proprietary/hardware/mtkcam/aaa/source/mt6765/buf_mgr/AAOBufMgr.cpp}
+10-29 21:28:23.231  1052 11674 E Hal3ARaw: [setParams] ReqMagic(#3), i4MagicOfLceGainFrame(0), History(#2,#3,#0) (setParams){#1604:vendor/mediatek/proprietary/hardware/mtkcam/aaa/source/mt6765/../isp_40/wrapper/Hal3ARawImp.cpp}
+10-29 21:28:23.231  1052 11674 E aao_buf_mgr: [updateInfo]  pAEResult is NULL 
+10-29 21:28:23.231  1052 11674 E aao_buf_mgr:  (updateInfo){#617:vendor/mediatek/proprietary/hardware/mtkcam/aaa/source/mt6765/buf_mgr/AAOBufMgr.cpp}
+10-29 21:28:23.231  1052 11674 E aao_buf_mgr: [updateInfo] Failed to get FLASHResult for MagicNum(1)
+10-29 21:28:23.231  1052 11674 E aao_buf_mgr:  (updateInfo){#625:vendor/mediatek/proprietary/hardware/mtkcam/aaa/source/mt6765/buf_mgr/AAOBufMgr.cpp}
+10-29 21:28:23.265  1052 11674 E Hal3ARaw: [setParams] ReqMagic(#4), i4MagicOfLceGainFrame(3), History(#2,#3,#4) (setParams){#1604:vendor/mediatek/proprietary/hardware/mtkcam/aaa/source/mt6765/../isp_40/wrapper/Hal3ARawImp.cpp}
+10-29 21:28:23.265  1052 11674 E Hal3ARaw: [setParams] MTK_3A_ISP_LCE_GAIN(1096) (setParams){#1611:vendor/mediatek/proprietary/hardware/mtkcam/aaa/source/mt6765/../isp_40/wrapper/Hal3ARawImp.cpp}
+10-29 21:28:23.265  1052 11674 E aao_buf_mgr: [updateInfo]  pAEResult is NULL 
+10-29 21:28:23.265  1052 11674 E aao_buf_mgr:  (updateInfo){#617:vendor/mediatek/proprietary/hardware/mtkcam/aaa/source/mt6765/buf_mgr/AAOBufMgr.cpp}
+10-29 21:28:23.265  1052 11674 E aao_buf_mgr: [updateInfo] Failed to get FLASHResult for MagicNum(1)
+10-29 21:28:23.265  1052 11674 E aao_buf_mgr:  (updateInfo){#625:vendor/mediatek/proprietary/hardware/mtkcam/aaa/source/mt6765/buf_mgr/AAOBufMgr.cpp}
+10-29 21:28:23.305  1052 11674 E Hal3ARaw: [setParams] ReqMagic(#5), i4MagicOfLceGainFrame(4), History(#3,#4,#5) (setParams){#1604:vendor/mediatek/proprietary/hardware/mtkcam/aaa/source/mt6765/../isp_40/wrapper/Hal3ARawImp.cpp}
+10-29 21:28:23.407   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:28:23.413   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:29:19.347   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 6.066000, -20.313000, 36.141003  ts 90867422415 
+10-29 21:29:38.298   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_acc(720/g) 26, 226, 674 ts 90886371842
+10-29 21:30:28.668   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 3.768000, -14.022001, 30.778502  ts 90936742436 
+10-29 21:31:06.998   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:31:07.003   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:31:10.674   735   735 I mtkpower_client: ret_hdl:53530
+10-29 21:32:12.674 13780 13780 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 21:32:26.674  1376  1404 E VoLTE SOC: res:-1, msg=Invalid argument (module/volte//volte_stack/src/soc/soc_api.c:651)
+10-29 21:32:26.674  1376  1404 E VoLTE SIPTX: siptx_recv_data_ind_hdlr, SOC_ACCEPT, soc_accept error, err = -1 (module/volte//volte_stack/src/sip/sip_transport.c:4793)
+10-29 21:32:42.498   704   818 I libPowerHal: [perfLockAcq] idx:0 hdl:53674 hint:1155 pid:735 duration:2670 lock_user:vperf@1.0-servi => ret_hdl:53674
+10-29 21:32:45.168   704   818 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:53674
+10-29 21:32:45.169   704   818 I libPowerHal: [perfLockRel] hdl:53674, idx:0
+10-29 21:32:45.186   735 14436 I mtkpower_client: perf_lock_rel, hdl:53674, tid:14436
+10-29 21:32:45.187   704   818 I libPowerHal: [perfLockRel] hdl:53674, idx:-1
+10-29 21:33:13.674   704   818 I libPowerHal: [perfLockAcq] idx:1 hdl:53762 hint:25 pid:704 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:53762
+10-29 21:33:13.674   704   818 I libPowerHal: [PE] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:1
+10-29 21:34:34.674   738  1061 D APM_AudioPolicyManager: getNewOutputDevices selected devices {type:0x2,@:}, mPhoneState 3
+10-29 21:34:39.059   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:34:39.064   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:34:44.674  8109  8109 E _V_VivoOtherActivityGestureProcessor: QuickStep|endAppToHomeAnim: mCurrentState=STATE_IN_APP, onlyEndWindowAnim=false, mAppToHomeRectAnimEnd=true, !mAppToHomeWallpaperAnimEnd = false,
+10-29 21:34:44.674  8109  8109 E _V_VivoOtherActivityGestureProcessor: com.android.quickstep.vivo.gesture.launcher.LauncherInputConsumer$1.test:153 com.android.quickstep.vivo.gesture.launcher.LauncherInputConsumer$1.test:2 com.android.quickstep.vivo.gesture.launcher.LauncherInputConsumer.onMotionEvent:30 com.android.quickstep.RecentsAnimationWrapper.onInputConsumerMotionEvent:84 com.android.quickstep.RecentsAnimationWrapper.onInputConsumerEvent:28 com.android.quickstep.RecentsAnimationWrapper.lambda$MbZzP9YybcLZ0cW6V8GfMl-7u6Q:0 com.android.quickstep.-$$Lambda$RecentsAnimationWrapper$MbZzP9YybcLZ0cW6V8GfMl-7u6Q.onInputEvent:2 com.android.systemui.shared.system.InputConsumerController$InputEventReceiver.onInputEvent:15 
+10-29 21:34:58.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 21:35:01.674   735   806 E ANDR-VPERF-RESOURCEQS: Failed to apply optimization [1, 1]
+10-29 21:35:11.674 15448 15448 E YT.mlplayer: MedialibPlayer.stopVideo()
+10-29 21:36:06.046 15448 16012 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe9bd70] state=DEQUEUED 0xb4000077bfe8ed50 frame=1674 [ 640x 360: 640,32315659]
+10-29 21:36:06.046 15448 16012 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe9bd70] state=DEQUEUED 0xb4000077bfe8ed50 frame=1674 [ 640x 360: 640,32315659]
+10-29 21:36:06.458 15448 16012 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe9bd70] state=DEQUEUED 0xb4000077bfe8ed50 frame=1674 [ 640x 360: 640,32315659]
+10-29 21:36:06.458 15448 16012 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe9bd70] state=DEQUEUED 0xb4000077bfe8ed50 frame=1674 [ 640x 360: 640,32315659]
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: Job failed with an exception, stack: 
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: X.6ml: Unexpected special floating-point value NaN. By default, non-finite floating point values are prohibited because they do not conform JSON specification. It is possible to deserialize them using 'JsonBuilder.allowSpecialFloatingPointValues = true'
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: Current output: {"dataList":[{"id":"identity","doubleVal":NaN
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.5Jc.AzZ(Unknown Source:80)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at com.facebook.dcp.model.DcpData$$serializer.serialize(Unknown Source:95)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at com.facebook.dcp.model.DcpData$$serializer.serialize(:268435458)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.5Jc.Azi(Unknown Source:88)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.5Jc.Azh(Unknown Source:11)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.4mt.serialize(Unknown Source:340)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.5Jc.Azi(Unknown Source:88)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at com.facebook.dcp.model.DcpDataList$$serializer.serialize(Unknown Source:33)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at com.facebook.dcp.model.DcpDataList$$serializer.serialize(:268435458)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.5Jc.Azi(Unknown Source:88)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.4mZ.A01(Unknown Source:25)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at kotlin.jvm.internal.KtLambdaShape1S1210000_I1.invoke(Unknown Source:1781)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.4mX.A00(Unknown Source:39)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.4eZ.A01(Unknown Source:27)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at kotlin.jvm.internal.KtLambdaShape2S0110000_I1.invoke(Unknown Source:97)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.4mX.A00(Unknown Source:39)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.4ea.A02(Unknown Source:20)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at com.facebook.dcp.fb4a.DcpAppJob.A02(Unknown Source:456)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.4DL.A05(Unknown Source:19898)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.28x.run(Unknown Source:6143)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.29I.call(Unknown Source:241)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.3HR.A00(Unknown Source:19)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.15r.call(Unknown Source:48)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.15P.run(Unknown Source:2)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.15i.run(Unknown Source:2)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.16B.run(Unknown Source:3)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at X.16F.run(Unknown Source:14)
+10-29 21:36:46.674  8085  8331 E fb4a.X.4e4: 	at java.lang.Thread.run(Thread.java:1012)
+10-29 21:38:07.674   704   818 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:54216
+10-29 21:38:07.674   704   818 I libPowerHal: [perfLockRel] hdl:54216, idx:1
+10-29 21:38:26.674   735 17603 I mtkpower_client: perf_lock_rel, hdl:54295, tid:17603
+10-29 21:38:38.666   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 8.742001, -16.398001, 36.571503  ts 91426740471 
+10-29 21:38:43.674   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_acc(720/g) 433, 592, -76 ts 91431747919
+10-29 21:40:19.027   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:40:19.032   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:40:19.704   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:40:19.709   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:40:19.955   674 23394 E AudioALSAStreamManager: routingInputDevice(), ptr is NULL!!
+10-29 21:40:59.373   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_acc(720/g) 445, 578, -171 ts 91567445048
+10-29 21:40:59.415   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 10.798500, -18.603001, 36.605999  ts 91567490534 
+10-29 21:41:03.515   674 25114 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x8
+10-29 21:41:48.221   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 11.673000, -17.319000, 35.937000  ts 91616295674 
+10-29 21:42:09.674   704   818 I libPowerHal: [perfNotifyAppState] pack:com.google.android.gsf, act:com.google.android.gsf, state:3, pid:19253, uid:99910178, fps:-1
+10-29 21:42:09.674   704   818 I libPowerHal: [perfNotifyAppState] pack:com.google.android.gsf, pid:19253, STATE_DEAD
+10-29 21:42:32.674   704   818 I libPowerHal: [perfLockRel] hdl:54481, idx:6
+10-29 21:45:58.674  1781  3368 D _V_VivoPowerManagerService: button light 0 111 trun off
+10-29 21:46:00.674  1781  1799 D _V_VivoPowerManagerService: button light 0 111 trun off
+10-29 21:46:01.992   674 25114 D _V_vafx_muteframedetect: AudioHwOut session 8, curMuteFrame 0 ms, totalMuteFrame 1658453 ms, normalFrame 6292693 ms
+10-29 21:46:05.022   674 25114 D _V_vafx_muteframedetect: AudioHwOut session 8, curMuteFrame 0 ms, totalMuteFrame 1658453 ms, normalFrame 6295722 ms
+10-29 21:46:17.139   674 25114 D _V_vafx_muteframedetect: AudioHwOut session 8, curMuteFrame 0 ms, totalMuteFrame 1658453 ms, normalFrame 6307840 ms
+10-29 21:47:45.674   704   818 I libPowerHal: [perfLockAcq] idx:2 hdl:54674 hint:1173 pid:735 duration:0 lock_user:vperf@1.0-servi => ret_hdl:54674
+10-29 21:47:45.725   735   735 I mtkpower_client: perf_lock_rel, hdl:54674, tid:735
+10-29 21:47:45.726   704   818 I libPowerHal: [perfLockRel] hdl:54674, idx:2
+10-29 21:48:32.579  1017 23674 E MetadataRetrieverClient: failed to extract an album art
+10-29 21:48:55.339   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:48:55.346   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:48:55.347   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 21:49:08.371   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 11.563499, -17.674501, 36.160503  ts 92056445185 
+10-29 21:49:14.400   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 11.338500, -17.772001, 35.674503  ts 92062475180 
+10-29 21:49:19.420   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 11.362500, -17.746500, 36.120003  ts 92067495307 
+10-29 21:49:59.674   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log akl_getv_mag(uT) calimag: 12.179999, 0.660000, -2.700000, Lv: 0
+10-29 21:49:59.674   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log akl_getv_mag(uT) offset: -3.480000, -19.859999, 39.180000
+10-29 21:50:04.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:04.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:04.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:04.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:06.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:08.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:10.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:12.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:16.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:18.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:20.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:24.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:24.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:26.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:26.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:26.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:30.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:32.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:32.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:32.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:32.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:32.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:32.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:32.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:32.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:32.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:36.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:36.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:36.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:36.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:50:36.674 15346 24465 E wamedia : missing pthread specific data for logger
+10-29 21:51:28.140   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 9.717000, -19.674002, 36.616501  ts 92196215303 
+10-29 21:52:46.753  1017 23674 E AudioSystem: invalid attributes { Content type: AUDIO_CONTENT_TYPE_UNKNOWN Usage: AUDIO_USAGE_UNKNOWN Source: AUDIO_SOURCE_INVALID Flags: 0x800 Tags:  } when converting to stream
+10-29 21:52:48.050  1017 23674 E MetadataRetrieverClient: failed to extract an album art
+10-29 21:52:48.358  1017 23674 E MetadataRetrieverClient: failed to extract an album art
+10-29 21:52:49.674 25565 25565 E ocess.gservice: Not starting debugger since process cannot load the jdwp agent.
+10-29 21:52:49.975   674 25114 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x8
+10-29 21:52:53.995   674 23394 E AudioALSAStreamManager: routingInputDevice(), ptr is NULL!!
+10-29 21:52:54.456  1017 25674 E AudioTrack: getpackName can't get client name
+10-29 21:53:59.674  7059  7424 E BufferQueueProducer: [SurfaceTexture-0-7059-1](id:1b9300000003,api:3,p:7059,c:7059) waitForFreeSlotThenRelock TIMED_OUT 0
+10-29 21:54:20.338  7059  7424 E BufferQueueProducer: BQDUMP >[09:0xb4000077bfeeb5d0] state=ACQUIRED 0xb4000077bff361b0 frame=674 [ 768x 432: 768,323156
+10-29 21:54:20.377  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeeb5d0] state=DEQUEUED 0xb4000077bff361b0 frame=674 [ 768x 432: 768,323156
+10-29 21:54:20.477  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeeb5d0] state=DEQUEUED 0xb4000077bff361b0 frame=674 [ 768x 432: 768,323156
+10-29 21:54:20.518  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeeb5d0] state=DEQUEUED 0xb4000077bff361b0 frame=674 [ 768x 432: 768,323156
+10-29 21:54:20.902  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeeb5d0] state=DEQUEUED 0xb4000077bff361b0 frame=674 [ 768x 432: 768,323156
+10-29 21:54:20.943  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeeb5d0] state=DEQUEUED 0xb4000077bff361b0 frame=674 [ 768x 432: 768,323156
+10-29 21:54:21.051  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeeb5d0] state=DEQUEUED 0xb4000077bff361b0 frame=674 [ 768x 432: 768,323156
+10-29 21:54:21.112  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeeb5d0] state=DEQUEUED 0xb4000077bff361b0 frame=674 [ 768x 432: 768,323156
+10-29 21:54:21.166  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeeb5d0] state=DEQUEUED 0xb4000077bff361b0 frame=674 [ 768x 432: 768,323156
+10-29 21:54:21.218  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfeeb5d0] state=DEQUEUED 0xb4000077bff361b0 frame=674 [ 768x 432: 768,323156
+10-29 21:54:41.674  7059  7424 E BufferQueueProducer: [SurfaceTexture-0-7059-1](id:1b9300000003,api:3,p:7059,c:7059) waitForFreeSlotThenRelock TIMED_OUT 0
+10-29 21:55:25.335  7059  7424 E BufferQueueProducer: BQDUMP  20:0xb4000077bff5a990 crop=[0,0,186,426] xform=0x00 time=55039.3674 scale=SCALE_TO_WINDOW
+10-29 21:55:29.674  7059  7424 E BufferQueueProducer: [SurfaceTexture-0-7059-4](id:1b9300000009,api:3,p:7059,c:7059) waitForFreeSlotThenRelock TIMED_OUT 0
+10-29 21:55:38.521  7059  7424 E BufferQueueProducer: BQDUMP  default-size=[720x1650] default-format=1 BQDUMP  transform-hint=00 frame-counter=674
+10-29 21:56:11.637  7059  7424 E BufferQueueProducer: BQDUMP  15:0xb4000077bff1ed50 crop=[0,0,426,240] xform=0x00 time=55085.6749 scale=SCALE_TO_WINDOW
+10-29 21:56:19.674  7059  7371 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+10-29 21:56:34.534   735 26674 I mtkpower_client: perf_lock_rel, hdl:55144, tid:26674
+10-29 21:56:44.933   735 26740 I mtkpower_client: perf_lock_rel, hdl:55173, tid:26740
+10-29 21:56:44.997  7059 26741 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+10-29 21:56:45.086   686 26747 E BWC     : MTK_IOC_SMI_BWC_INFO_SET failed.:Inappropriate ioctl for device
+10-29 21:56:45.086   686 26747 E BWC     : MTK_IOC_SMI_BWC_INFO_GET failed.:Inappropriate ioctl for device
+10-29 21:56:45.088   686 26747 E BWC     : fail to open mem_bw_ctrl driver file
+10-29 21:56:45.088   686 26747 E BWC     : Failed to switch EMI profile, error: -1
+10-29 21:56:45.088   686 26747 E BWC     : MTK_IOC_SMI_BWC_INFO_SET failed.:Inappropriate ioctl for device
+10-29 21:56:45.104   686 26747 E mtkpower_client: PowerHal_Wrap_scnReg not support!!!
+10-29 21:56:45.285  7059 26742 E AudioTrack: getpackName can't get client name
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=1 mMaxDequeuedBufferCount=22
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=1 mLegacyBufferDrop=1
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP  default-size=[720x720] default-format=1 BQDUMP  transform-hint=00 frame-counter=8
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMPFIFO(1):
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceTexture-0-7059-14, mConnectedApi=3, mConsumerUsageBits=256, mId=1b930000001f, producer=[7059:com.facebook.katana], consumer=[7059:com.facebook.katana])
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP  07:0xb4000077bff8efb0 crop=[0,0,426,426] xform=0x00 time=55119.7130 scale=SCALE_TO_WINDOW
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMPSlots:
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bffa9b30] state=DEQUEUED 0xb4000077bffae9f0 frame=2 [ 426x 426: 448,32315659]
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bff33150] state=DEQUEUED 0xb4000077bffaa310 frame=1 [ 426x 426: 448,32315659]
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [02:0xb4000077bff56bb0] state=DEQUEUED 0xb4000077bff629d0 frame=3 [ 426x 426: 448,32315659]
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [03:0xb4000077bffa6650] state=DEQUEUED 0xb4000077bfec2dd0 frame=4 [ 426x 426: 448,32315659]
+10-29 21:56:45.674  7059  7424 E BufferQueueProducer: BQDUM
+10-29 21:56:49.333  7059  7424 E BufferQueueProducer: BQDUMP  01:0xb4000077bff33150 crop=[0,0,426,426] xform=0x00 time=55123.3674 scale=SCALE_TO_WINDOW
+10-29 21:56:49.428  7059  7424 E BufferQueueProducer: BQDUMP  05:0xb4000077bffadeb0 crop=[0,0,426,426] xform=0x00 time=55123.4674 scale=SCALE_TO_WINDOW
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: Slots:
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bffae570] state=DEQUEUED 0xb4000077bff58590 frame=9 [ 480x 410: 480,32315659]
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bff55ad0] state=DEQUEUED 0xb4000077bff6ccf0 frame=1 [ 480x 410: 480,32315659]
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP  [02:0xb4000077bff51ab0] state=DEQUEUED 0xb4000077bfec6730 frame=10 [ 480x 410: 480,32315659]
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP >[03:0xb4000077bfedfd50] state=ACQUIRED 0xb4000077bff89910 frame=11 [ 480x 410: 480,32315659]
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP  [04:0xb4000077bff926d0] state=QUEUED   0xb4000077bff38a30 frame=12 [ 480x 410: 480,32315659]
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP  [05:0xb4000077bff198f0] state=DEQUEUED 0xb4000077bff55890 frame=0 [ 480x 410: 480,32315659]
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff551d0] state=DEQUEUED 0xb4000077bff86310 frame=0 [ 480x 410: 480,32315659]
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP  [07:0xb4000077bff99ab0] state=DEQUEUED 0xb4000077bffbbe90 frame=2 [ 480x 410: 480,32315659]
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP  [08:0xb4000077bff91830] state=DEQUEUED 0xb4000077bff6bf70 frame=3 [ 480x 410: 480,32315659]
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bff8b770] state=DEQUEUED 0xb4000077bff89a30 frame=4 [ 480x 410: 480,32315659]
+10-29 21:56:52.674  7059  7424 E BufferQueueProducer: BQDUMP  [10:0
+10-29 21:57:04.042  7059  7424 E BufferQueueProducer: BQDUMP  15:0xb4000077bfece530 crop=[0,0,480,410] xform=0x00 time=55138.0674 scale=SCALE_TO_WINDOW
+10-29 21:57:15.501  7059  7424 E BufferQueueProducer: BQDUMP  default-size=[720x616] default-format=1 BQDUMP  transform-hint=00 frame-counter=674
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=1 mMaxDequeuedBufferCount=22
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=1 mLegacyBufferDrop=1
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  default-size=[720x616] default-format=1 BQDUMP  transform-hint=00 frame-counter=2100
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMPFIFO(1):
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceTexture-0-7059-15, mConnectedApi=3, mConsumerUsageBits=256, mId=1b9300000020, producer=[7059:com.facebook.katana], consumer=[7059:com.facebook.katana])
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  02:0xb4000077bff51ab0 crop=[0,0,480,410] xform=0x00 time=55198.7062 scale=SCALE_TO_WINDOW
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMPSlots:
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bffae570] state=DEQUEUED 0xb4000077bff58590 frame=2083 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bff55ad0] state=DEQUEUED 0xb4000077bff6ccf0 frame=2088 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [02:0xb4000077bff51ab0] state=QUEUED   0xb4000077bfec6730 frame=2100 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP >[03:0xb4000077bfedfd50] state=ACQUIRED 0xb4000077bff89910 frame=2099 [ 480x 410: 480,
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: Slots:
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bffae570] state=DEQUEUED 0xb4000077bff58590 frame=2083 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bff55ad0] state=DEQUEUED 0xb4000077bff6ccf0 frame=2088 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [02:0xb4000077bff51ab0] state=QUEUED   0xb4000077bfec6730 frame=2100 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP >[03:0xb4000077bfedfd50] state=ACQUIRED 0xb4000077bff89910 frame=2099 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [04:0xb4000077bff926d0] state=DEQUEUED 0xb4000077bff38a30 frame=2082 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [05:0xb4000077bff198f0] state=DEQUEUED 0xb4000077bff55890 frame=2081 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff551d0] state=DEQUEUED 0xb4000077bff86310 frame=2089 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [07:0xb4000077bff99ab0] state=DEQUEUED 0xb4000077bffbbe90 frame=2084 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [08:0xb4000077bff91830] state=DEQUEUED 0xb4000077bff6bf70 frame=2087 [ 480x 410: 480,32315659]
+10-29 21:58:04.674  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bff8b770] state=DEQUEUED 0xb4000077bff89a30 frame=2091 [ 480x 410: 
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=1 mMaxDequeuedBufferCount=22
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=1 mLegacyBufferDrop=1
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  default-size=[720x616] default-format=1 BQDUMP  transform-hint=00 frame-counter=2390
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMPFIFO(1):
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceTexture-0-7059-15, mConnectedApi=3, mConsumerUsageBits=256, mId=1b9300000020, producer=[7059:com.facebook.katana], consumer=[7059:com.facebook.katana])
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  09:0xb4000077bff8b770 crop=[0,0,480,410] xform=0x00 time=55208.7103 scale=SCALE_TO_WINDOW
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMPSlots:
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bffae570] state=DEQUEUED 0xb4000077bff58590 frame=2384 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bff55ad0] state=DEQUEUED 0xb4000077bff6ccf0 frame=2387 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [02:0xb4000077bff51ab0] state=DEQUEUED 0xb4000077bfec6730 frame=2375 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfedfd50] state=DEQUEUED 0xb4000077bff89910 frame=2377 [ 480x 410: 480,
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: Slots:
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bffae570] state=DEQUEUED 0xb4000077bff58590 frame=2384 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bff55ad0] state=DEQUEUED 0xb4000077bff6ccf0 frame=2387 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [02:0xb4000077bff51ab0] state=DEQUEUED 0xb4000077bfec6730 frame=2375 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfedfd50] state=DEQUEUED 0xb4000077bff89910 frame=2377 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [04:0xb4000077bff926d0] state=DEQUEUED 0xb4000077bff38a30 frame=2381 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [05:0xb4000077bff198f0] state=DEQUEUED 0xb4000077bff55890 frame=2379 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff551d0] state=DEQUEUED 0xb4000077bff86310 frame=2388 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [07:0xb4000077bff99ab0] state=DEQUEUED 0xb4000077bffbbe90 frame=2382 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [08:0xb4000077bff91830] state=DEQUEUED 0xb4000077bff6bf70 frame=2386 [ 480x 410: 480,32315659]
+10-29 21:58:14.674  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bff8b770] state=QUEUED   0xb4000077bff89a30 frame=2390 [ 480x 410: 
+10-29 21:58:33.767  7059 26745 E BufferQueueProducer: [SurfaceTexture-0-7059-14](id:1b930000001f,api:3,p:7059,c:7059) detachBuffer: slot 0 is not owned by the producer (state = ACQUIRED)
+10-29 21:58:33.773  7059 26745 E BufferQueueProducer: [SurfaceTexture-0-7059-14](id:1b930000001f,api:3,p:7059,c:7059) detachBuffer: slot 23 is not owned by the producer (state = FREE)
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=1 mMaxDequeuedBufferCount=22
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=1 mLegacyBufferDrop=1
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  default-size=[723x903] default-format=1 BQDUMP  transform-hint=00 frame-counter=3
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMPFIFO(1):
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceTexture-0-7059-18, mConnectedApi=3, mConsumerUsageBits=256, mId=1b9300000026, producer=[7059:com.facebook.katana], consumer=[7059:com.facebook.katana])
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  04:0xb4000077bffad250 crop=[0,0,512,640] xform=0x00 time=55262.6904 scale=SCALE_TO_WINDOW
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMPSlots:
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bff9d1d0] state=DEQUEUED 0xb4000077bff99630 frame=0 [ 512x 640: 512,7F000001]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bff631b0] state=DEQUEUED 0xb4000077bffa3710 frame=0 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP >[02:0xb4000077bff895b0] state=ACQUIRED 0xb4000077bff9f6f0 frame=1 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [03:0xb4000077bffc7290] state=DEQUEUED 0xb4000077bffaed50 frame=2 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUM
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: Slots:
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bff9d1d0] state=DEQUEUED 0xb4000077bff99630 frame=0 [ 512x 640: 512,7F000001]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bff631b0] state=DEQUEUED 0xb4000077bffa3710 frame=0 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP >[02:0xb4000077bff895b0] state=ACQUIRED 0xb4000077bff9f6f0 frame=1 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [03:0xb4000077bffc7290] state=DEQUEUED 0xb4000077bffaed50 frame=2 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [04:0xb4000077bffad250] state=QUEUED   0xb4000077bff60ff0 frame=3 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [05:0xb4000077bffb7690] state=DEQUEUED 0xb4000077bfed7bf0 frame=0 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff4d970] state=DEQUEUED 0xb4000077bff95850 frame=0 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [07:0xb4000077bff3b2b0] state=DEQUEUED 0xb4000077bff373b0 frame=0 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [08:0xb4000077bfedda70] state=DEQUEUED 0xb4000077bff06b70 frame=0 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bffa1c10] state=DEQUEUED 0xb4000077bff92eb0 frame=0 [ 512x 640: 512,32315659]
+10-29 21:59:08.674  7059  7424 E BufferQueueProducer: BQDUMP  [10:0xb4
+10-29 22:00:30.674  7946  7946 E native  : E1029 22:00:30.674684    7946 touch-center-module.cc:373] [TouchCenter] Can't find key at (72, 234)
+10-29 22:02:18.005  7059  7424 E BufferQueueProducer: BQDUMP >[06:0xb4000077bff3dc50] state=ACQUIRED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:18.018  7059  7424 E BufferQueueProducer: BQDUMP >[06:0xb4000077bff3dc50] state=ACQUIRED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:18.047  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff3dc50] state=DEQUEUED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:18.069  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff3dc50] state=DEQUEUED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:18.273  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff3dc50] state=DEQUEUED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:18.327  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff3dc50] state=DEQUEUED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:18.379  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff3dc50] state=DEQUEUED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:18.405  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff3dc50] state=DEQUEUED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:18.642  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff3dc50] state=DEQUEUED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:18.680  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff3dc50] state=DEQUEUED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:18.709  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bff3dc50] state=DEQUEUED 0xb4000077bffc6ab0 frame=674 [ 426x 368: 448,32315659]
+10-29 22:02:58.839  7059  7424 E BufferQueueProducer: BQDUMP  default-size=[738x405] default-format=1 BQDUMP  transform-hint=00 frame-counter=674
+10-29 22:02:58.839  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bffbb6b0] state=QUEUED   0xb4000077bffbf370 frame=674 [ 432x 234: 448,32315659]
+10-29 22:02:58.839  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bffbb6b0] state=QUEUED   0xb4000077bffbf370 frame=674 [ 432x 234: 448,32315659]
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=1 mMaxDequeuedBufferCount=22
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=1 mLegacyBufferDrop=1
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP  default-size=[723x903] default-format=1 BQDUMP  transform-hint=00 frame-counter=84
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMPFIFO(1):
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceTexture-0-7059-32, mConnectedApi=3, mConsumerUsageBits=256, mId=1b9300000044, producer=[7059:com.facebook.katana], consumer=[7059:com.facebook.katana])
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP  15:0xb4000077bffadc70 crop=[0,0,512,640] xform=0x00 time=55634.7066 scale=SCALE_TO_WINDOW
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMPSlots:
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bffdcf50] state=DEQUEUED 0xb4000077bffba390 frame=0 [ 512x 640: 512,7F000001]
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bffba150] state=DEQUEUED 0xb4000077bffafd10 frame=75 [ 512x 640: 512,32315659]
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP  [02:0xb4000077bffcb3d0] state=DEQUEUED 0xb4000077bffd0dd0 frame=80 [ 512x 640: 512,32315659]
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: BQDUMP  [03:0xb4000077bff66d50] state=DEQUEUED 0xb4000077bffde930 frame=74 [ 512x 640: 512,32315659]
+10-29 22:05:20.674  7059  7424 E BufferQueueProducer: B
+10-29 22:06:38.674  7059  7347 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+10-29 22:06:38.674  7059  7347 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+10-29 22:06:38.674  7059  7347 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+10-29 22:06:38.674  7059  7371 E libprocessgroup: set_timerslack_ns write failed: Operation not permitted
+10-29 22:06:46.441   704   818 I libPowerHal: [perfLockAcq] idx:2 hdl:55674 hint:1157 pid:735 duration:80 lock_user:vperf@1.0-servi => ret_hdl:55674
+10-29 22:06:46.522   704   818 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:55674
+10-29 22:06:46.522   704   818 I libPowerHal: [perfLockRel] hdl:55674, idx:2
+10-29 22:06:46.542   735 28232 I mtkpower_client: perf_lock_rel, hdl:55674, tid:28232
+10-29 22:06:46.543   704   818 I libPowerHal: [perfLockRel] hdl:55674, idx:-1
+10-29 22:07:17.674  7059  7059 E fb4a.FbUserSessionLithoUtil: Cannot find user session in tree props
+10-29 22:07:41.674  7059  7059 E fb4a.FbUserSessionLithoUtil: Cannot find user session in tree props
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=1 mMaxDequeuedBufferCount=22
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=1 mLegacyBufferDrop=1
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  default-size=[722x406] default-format=1 BQDUMP  transform-hint=00 frame-counter=122
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMPFIFO(1):
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceTexture-0-7059-48, mConnectedApi=3, mConsumerUsageBits=256, mId=1b9300000064, producer=[7059:com.facebook.katana], consumer=[7059:com.facebook.katana])
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  06:0xb4000077bffd3d10 crop=[0,0,960,540] xform=0x00 time=55779.6956 scale=SCALE_TO_WINDOW
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMPSlots:
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe646f0] state=DEQUEUED 0xb4000077bffc6870 frame=117 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bffd6a10] state=DEQUEUED 0xb4000077bffd8630 frame=116 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [02:0xb4000077bffbd510] state=DEQUEUED 0xb4000077bffe4b10 frame=118 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [03:0xb4000077bffa0230] state=DEQUEUED 0xb4000077bffec6d0 frame=119 [ 960x 540: 960,32315
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: Slots:
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe646f0] state=DEQUEUED 0xb4000077bffc6870 frame=117 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [01:0xb4000077bffd6a10] state=DEQUEUED 0xb4000077bffd8630 frame=116 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [02:0xb4000077bffbd510] state=DEQUEUED 0xb4000077bffe4b10 frame=118 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [03:0xb4000077bffa0230] state=DEQUEUED 0xb4000077bffec6d0 frame=119 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [04:0xb4000077bff3bdf0] state=DEQUEUED 0xb4000077bffac4d0 frame=120 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP >[05:0xb4000077bffeca30] state=ACQUIRED 0xb4000077bffc1770 frame=121 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [06:0xb4000077bffd3d10] state=QUEUED   0xb4000077bfeb3e30 frame=122 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [07:0xb4000077bffe11b0] state=DEQUEUED 0xb4000077bff8c3d0 frame=100 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [08:0xb4000077bfed17d0] state=DEQUEUED 0xb4000077bff2b350 frame=101 [ 960x 540: 960,32315659]
+10-29 22:07:45.674  7059  7424 E BufferQueueProducer: BQDUMP  [09:0xb4000077bffd7e50] state=DEQUEUED 0xb4000077bff198f0 frame=102 [ 960x 540: 960,323156
+10-29 22:07:55.674   704   818 I libPowerHal: [perfLockAcq] idx:3 hdl:55807 hint:1157 pid:735 duration:80 lock_user:vperf@1.0-servi => ret_hdl:55807
+10-29 22:08:06.674   704   818 I libPowerHal: [perfNotifyAppState] pack:com.whatsapp, act:com.whatsapp.HomeActivity, state:1, pid:28924, uid:10226, fps:60
+10-29 22:09:11.674   660   927 E netd    : QUERY_RESOLV_NETID command.uid:99910213, nid:0
+10-29 22:10:45.693 30089 30532 E BufferQueueProducer: BQDUMP >[01:0xb4000077bfe9a030] state=ACQUIRED 0xb4000077bfea36f0 frame=674 [ 426x 240: 448,32315659]
+10-29 22:10:45.693 30089 30532 E BufferQueueProducer: BQDUMP >[01:0xb4000077bfe9a030] state=ACQUIRED 0xb4000077bfea36f0 frame=674 [ 426x 240: 448,32315659]
+10-29 22:10:45.830 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfe9a030] state=DEQUEUED 0xb4000077bfea36f0 frame=674 [ 426x 240: 448,32315659]
+10-29 22:10:45.830 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfe9a030] state=DEQUEUED 0xb4000077bfea36f0 frame=674 [ 426x 240: 448,32315659]
+10-29 22:11:35.396 30089 30532 E BufferQueueProducer: BQDUMP >[07:0xb4000077bfeb54b0] state=ACQUIRED 0xb4000077bfeae790 frame=674 [ 426x 240: 448,32315659]
+10-29 22:11:35.638 30089 30532 E BufferQueueProducer: BQDUMP  [07:0xb4000077bfeb54b0] state=DEQUEUED 0xb4000077bfeae790 frame=674 [ 426x 240: 448,32315659]
+10-29 22:11:35.659 30089 30532 E BufferQueueProducer: BQDUMP  [07:0xb4000077bfeb54b0] state=DEQUEUED 0xb4000077bfeae790 frame=674 [ 426x 240: 448,32315659]
+10-29 22:11:35.674 30089 30532 E BufferQueueProducer: [SurfaceView[com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity]#4(BLAST Consumer)4](id:75890000000b,api:3,p:30089,c:30089) waitForFreeSlotThenRelock TIMED_OUT 0
+10-29 22:11:35.675 30089 30532 E BufferQueueProducer: BQDUMP  [07:0xb4000077bfeb54b0] state=DEQUEUED 0xb4000077bfeae790 frame=674 [ 426x 240: 448,32315659]
+10-29 22:11:35.739 30089 30532 E BufferQueueProducer: BQDUMP  [07:0xb4000077bfeb54b0] state=DEQUEUED 0xb4000077bfeae790 frame=674 [ 426x 240: 448,32315659]
+10-29 22:11:47.674 30089 30532 E BufferQueueProducer: [SurfaceView[com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity]#5(BLAST Consumer)5](id:75890000000d,api:3,p:30089,c:30089) waitForFreeSlotThenRelock TIMED_OUT 0
+10-29 22:12:01.927 30089 30532 E BufferQueueProducer: BQDUMP  [06:0xb4000077bfeb6b30] state=DEQUEUED 0xb4000077bfe5e1b0 frame=674 [ 640x 360: 640,32315659]
+10-29 22:12:02.061 30089 30532 E BufferQueueProducer: BQDUMP  [06:0xb4000077bfeb6b30] state=DEQUEUED 0xb4000077bfe5e1b0 frame=674 [ 640x 360: 640,32315659]
+10-29 22:12:02.494 30089 30532 E BufferQueueProducer: BQDUMP  [06:0xb4000077bfeb6b30] state=DEQUEUED 0xb4000077bfe5e1b0 frame=674 [ 640x 360: 640,32315659]
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: Slots:
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=3078 [ 640x 360: 640,32315659]
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=3081 [ 640x 360: 640,32315659]
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=3085 [ 640x 360: 640,32315659]
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 frame=3086 [ 640x 360: 640,32315659]
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: BQDUMP  [04:0xb4000077bfebac70] state=DEQUEUED 0xb4000077bfeb6230 frame=3087 [ 640x 360: 640,32315659]
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: BQDUMP  [05:0xb4000077bfebc2f0] state=DEQUEUED 0xb4000077bfeb7f70 frame=3088 [ 640x 360: 640,32315659]
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: BQDUMP  [06:0xb4000077bfeb6b30] state=DEQUEUED 0xb4000077bfe5e1b0 frame=3089 [ 640x 360: 640,32315659]
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: BQDUMP >[07:0xb4000077bfec3eb0] state=ACQUIRED 0xb4000077bfe576d0 frame=3090 [ 640x 360: 640,32315659]
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: BQDUMP >[08:0xb4000077bfead230] state=ACQUIRED 0xb4000077bfec52f0 frame=3091 [ 640x 360: 640,32315659]
+10-29 22:13:22.674 30089 30532 E BufferQueueProducer: BQDUMP >[09:0xb4000077bfe8c830] state=ACQUIRED 0xb4000077bfea8d90 frame=3092 [ 640x 360: 
+10-29 22:14:16.107 30089 30532 E BufferQueueProducer: BQDUMP  [04:0xb4000077bfebac70] state=DEQUEUED 0xb4000077bfeb6230 frame=4674 [ 640x 360: 640,32315659]
+10-29 22:14:34.786 30089 30528 D PipelineWatcher: onWorkDone: frameIndex not found (18446744073709551615); ignored
+10-29 22:14:34.823 30089 30528 D PipelineWatcher: onWorkDone: frameIndex not found (18446744073709551615); ignored
+10-29 22:15:23.125 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 frame=6674 [ 640x 360: 640,32315659]
+10-29 22:15:25.034 30089 30532 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=6749
+10-29 22:15:25.034 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=6742 [ 640x 360: 640,32315659]
+10-29 22:15:25.035 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=6742 [ 640x 360: 640,32315659]
+10-29 22:15:25.035 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 frame=6743 [ 640x 360: 640,32315659]
+10-29 22:15:25.035 30089 30532 E BufferQueueProducer: BQDUMP  [04:0xb4000077bfebac70] state=DEQUEUED 0xb4000077bfeb6230 frame=6744 [ 640x 360: 640,32315659]
+10-29 22:15:25.035 30089 30532 E BufferQueueProducer: BQDUMP  [05:0xb4000077bfebc2f0] state=DEQUEUED 0xb4000077bfeb7f70 frame=6745 [ 640x 360: 640,32315659]
+10-29 22:15:25.035 30089 30532 E BufferQueueProducer: BQDUMP  [06:0xb4000077bfeb6b30] state=DEQUEUED 0xb4000077bfe5e1b0 frame=6746 [ 640x 360: 640,32315659]
+10-29 22:15:25.035 30089 30532 E BufferQueueProducer: BQDUMP >[07:0xb4000077bfec3eb0] state=ACQUIRED 0xb4000077bfe576d0 frame=6748 [ 640x 360: 640,32315659]
+10-29 22:15:25.035 30089 30532 E BufferQueueProducer: BQDUMP >[08:0xb4000077bfead230] state=ACQUIRED 0xb4000077bfec52f0 frame=6747 [ 640x 360: 640,32315659]
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: Slots:
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=7862 [ 640x 360: 640,32315659]
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=7864 [ 640x 360: 640,32315659]
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=7869 [ 640x 360: 640,32315659]
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 frame=7870 [ 640x 360: 640,32315659]
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: BQDUMP  [04:0xb4000077bfebac70] state=DEQUEUED 0xb4000077bfeb6230 frame=7871 [ 640x 360: 640,32315659]
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: BQDUMP >[05:0xb4000077bfebc2f0] state=ACQUIRED 0xb4000077bfeb7f70 frame=7873 [ 640x 360: 640,32315659]
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: BQDUMP >[06:0xb4000077bfeb6b30] state=ACQUIRED 0xb4000077bfe5e1b0 frame=7872 [ 640x 360: 640,32315659]
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: BQDUMP >[07:0xb4000077bfec3eb0] state=ACQUIRED 0xb4000077bfe576d0 frame=7874 [ 640x 360: 640,32315659]
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: BQDUMP  [08:0xb4000077bfead230] state=DEQUEUED 0xb4000077bfec52f0 frame=7852 [ 640x 360: 640,32315659]
+10-29 22:16:02.674 30089 30532 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfe8c830] state=DEQUEUED 0xb4000077bfea8d90 frame=7854 [ 640x 360: 
+10-29 22:16:20.674 30089 30532 E BufferQueueProducer: [SurfaceView[com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity]#5(BLAST Consumer)5](id:75890000000d,api:3,p:30089,c:30089) waitForFreeSlotThenRelock TIMED_OUT 0
+10-29 22:16:29.756 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=8674 [ 640x 360: 640,32315659]
+10-29 22:16:29.756 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=8674 [ 640x 360: 640,32315659]
+10-29 22:16:29.857 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=8674 [ 640x 360: 640,32315659]
+10-29 22:16:29.857 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=8674 [ 640x 360: 640,32315659]
+10-29 22:16:29.927 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=8674 [ 640x 360: 640,32315659]
+10-29 22:16:29.927 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=8674 [ 640x 360: 640,32315659]
+10-29 22:16:30.151 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=8674 [ 640x 360: 640,32315659]
+10-29 22:16:30.152 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=8674 [ 640x 360: 640,32315659]
+10-29 22:17:02.907 30089 30532 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=9674
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=2 mMaxDequeuedBufferCount=21
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=0 mLegacyBufferDrop=1
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=11490
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMPFIFO(0):
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceView[com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity]#5(BLAST Consumer)5, mConnectedApi=3, mConsumerUsageBits=2304, mId=75890000000d, producer=[30089:com.google.android.youtube], consumer=[30089:com.google.android.youtube])
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMPSlots:
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=11473 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=11476 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=11480 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 fram
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: Slots:
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=11473 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=11476 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=11480 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 frame=11481 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [04:0xb4000077bfebac70] state=DEQUEUED 0xb4000077bfeb6230 frame=11482 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [05:0xb4000077bfebc2f0] state=DEQUEUED 0xb4000077bfeb7f70 frame=11483 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [06:0xb4000077bfeb6b30] state=DEQUEUED 0xb4000077bfe5e1b0 frame=11484 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [07:0xb4000077bfec3eb0] state=DEQUEUED 0xb4000077bfe576d0 frame=11485 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP  [08:0xb4000077bfead230] state=DEQUEUED 0xb4000077bfec52f0 frame=11486 [ 640x 360: 640,32315659]
+10-29 22:18:03.674 30089 30532 E BufferQueueProducer: BQDUMP >[09:0xb4000077bfe8c830] state=ACQUIRED 0xb4000077bfea8d90 frame=11488 [ 
+10-29 22:18:10.133  1017 23674 E mediaserver: unlinkToDeath: removed reference to death recipient but unlink failed.
+10-29 22:18:10.134  1017 23674 E IPCThreadState: attemptIncStrongHandle(12): Not supported
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=2 mMaxDequeuedBufferCount=21
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=0 mLegacyBufferDrop=1
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=13104
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMPFIFO(0):
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceView[com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity]#5(BLAST Consumer)5, mConnectedApi=3, mConsumerUsageBits=2304, mId=75890000000d, producer=[30089:com.google.android.youtube], consumer=[30089:com.google.android.youtube])
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMPSlots:
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=13083 [ 640x 360: 640,32315659]
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=13086 [ 640x 360: 640,32315659]
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=13090 [ 640x 360: 640,32315659]
+10-29 22:18:57.674 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 fram
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=2 mMaxDequeuedBufferCount=21
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=0 mLegacyBufferDrop=1
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=13403
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMPFIFO(0):
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceView[com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity]#5(BLAST Consumer)5, mConnectedApi=3, mConsumerUsageBits=2304, mId=75890000000d, producer=[30089:com.google.android.youtube], consumer=[30089:com.google.android.youtube])
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMPSlots:
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=13382 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=13385 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=13389 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 fram
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: Slots:
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=13382 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=13385 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=13389 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 frame=13390 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [04:0xb4000077bfebac70] state=DEQUEUED 0xb4000077bfeb6230 frame=13391 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [05:0xb4000077bfebc2f0] state=DEQUEUED 0xb4000077bfeb7f70 frame=13392 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [06:0xb4000077bfeb6b30] state=DEQUEUED 0xb4000077bfe5e1b0 frame=13393 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [07:0xb4000077bfec3eb0] state=DEQUEUED 0xb4000077bfe576d0 frame=13394 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [08:0xb4000077bfead230] state=DEQUEUED 0xb4000077bfec52f0 frame=13395 [ 640x 360: 640,32315659]
+10-29 22:19:07.674 30089 30532 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfe8c830] state=DEQUEUED 0xb4000077bfea8d90 frame=13398 [ 
+10-29 22:19:16.983 30089 30532 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfe8c830] state=DEQUEUED 0xb4000077bfea8d90 frame=13674 [ 
+10-29 22:19:17.055 30089 30532 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfe8c830] state=DEQUEUED 0xb4000077bfea8d90 frame=13674 [ 
+10-29 22:19:17.154 30089 30532 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfe8c830] state=DEQUEUED 0xb4000077bfea8d90 frame=13674 [ 
+10-29 22:19:17.185 30089 30532 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfe8c830] state=DEQUEUED 0xb4000077bfea8d90 frame=13674 [ 
+10-29 22:19:17.221 30089 30532 E BufferQueueProducer: BQDUMP  [09:0xb4000077bfe8c830] state=DEQUEUED 0xb4000077bfea8d90 frame=13674 [ 
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=2 mMaxDequeuedBufferCount=21
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=0 mLegacyBufferDrop=1
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=15375
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMPFIFO(0):
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceView[com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.WatchWhileActivity]#5(BLAST Consumer)5, mConnectedApi=3, mConsumerUsageBits=2304, mId=75890000000d, producer=[30089:com.google.android.youtube], consumer=[30089:com.google.android.youtube])
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMPSlots:
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=15360 [ 640x 360: 640,32315659]
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=15362 [ 640x 360: 640,32315659]
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=15367 [ 640x 360: 640,32315659]
+10-29 22:20:13.674 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 fram
+10-29 22:20:23.680 30089 30532 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=15674
+10-29 22:20:53.193   704   818 I libPowerHal: [perfLockAcq] idx:0 hdl:56674 hint:25 pid:704 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:56674
+10-29 22:20:53.241   704   818 I libPowerHal: [perfLockRel] hdl:56674, idx:0
+10-29 22:20:57.142 30089 30532 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=16674
+10-29 22:20:59.548 30089 30532 E BufferQueueProducer: BQDUMP  default-size=[640x360] default-format=4 BQDUMP  transform-hint=00 frame-counter=16746
+10-29 22:20:59.548 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=16740 [ 640x 360: 640,32315659]
+10-29 22:20:59.548 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=16742 [ 640x 360: 640,32315659]
+10-29 22:20:59.548 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=16740 [ 640x 360: 640,32315659]
+10-29 22:20:59.548 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=16742 [ 640x 360: 640,32315659]
+10-29 22:20:59.852 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=16740 [ 640x 360: 640,32315659]
+10-29 22:20:59.852 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=16742 [ 640x 360: 640,32315659]
+10-29 22:20:59.852 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=16747 [ 640x 360: 640,32315659]
+10-29 22:20:59.852 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=16740 [ 640x 360: 640,32315659]
+10-29 22:20:59.852 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=16742 [ 640x 360: 640,32315659]
+10-29 22:20:59.852 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=16747 [ 640x 360: 640,32315659]
+10-29 22:20:59.852 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 frame=16748 [ 640x 360: 640,32315659]
+10-29 22:20:59.852 30089 30532 E BufferQueueProducer: BQDUMP  [05:0xb4000077bfebc2f0] state=DEQUEUED 0xb4000077bfeb7f70 frame=16749 [ 640x 360: 640,32315659]
+10-29 22:20:59.951 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=16740 [ 640x 360: 640,32315659]
+10-29 22:20:59.951 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=16742 [ 640x 360: 640,32315659]
+10-29 22:20:59.951 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=16747 [ 640x 360: 640,32315659]
+10-29 22:20:59.952 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=16740 [ 640x 360: 640,32315659]
+10-29 22:20:59.952 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=16742 [ 640x 360: 640,32315659]
+10-29 22:20:59.952 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=16747 [ 640x 360: 640,32315659]
+10-29 22:20:59.952 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 frame=16748 [ 640x 360: 640,32315659]
+10-29 22:20:59.952 30089 30532 E BufferQueueProducer: BQDUMP  [05:0xb4000077bfebc2f0] state=DEQUEUED 0xb4000077bfeb7f70 frame=16749 [ 640x 360: 640,32315659]
+10-29 22:20:59.981 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=16740 [ 640x 360: 640,32315659]
+10-29 22:20:59.981 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=16742 [ 640x 360: 640,32315659]
+10-29 22:20:59.981 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=16747 [ 640x 360: 640,32315659]
+10-29 22:20:59.981 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=16740 [ 640x 360: 640,32315659]
+10-29 22:20:59.981 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=16742 [ 640x 360: 640,32315659]
+10-29 22:20:59.981 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=16747 [ 640x 360: 640,32315659]
+10-29 22:20:59.981 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 frame=16748 [ 640x 360: 640,32315659]
+10-29 22:20:59.981 30089 30532 E BufferQueueProducer: BQDUMP  [05:0xb4000077bfebc2f0] state=DEQUEUED 0xb4000077bfeb7f70 frame=16749 [ 640x 360: 640,32315659]
+10-29 22:21:00.026 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=16740 [ 640x 360: 640,32315659]
+10-29 22:21:00.026 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=16742 [ 640x 360: 640,32315659]
+10-29 22:21:00.026 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=16747 [ 640x 360: 640,32315659]
+10-29 22:21:00.026 30089 30532 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfe53b30] state=DEQUEUED 0xb4000077bfe64b70 frame=16740 [ 640x 360: 640,32315659]
+10-29 22:21:00.026 30089 30532 E BufferQueueProducer: BQDUMP  [01:0xb4000077bfea2bb0] state=DEQUEUED 0xb4000077bfeabbb0 frame=16742 [ 640x 360: 640,32315659]
+10-29 22:21:00.026 30089 30532 E BufferQueueProducer: BQDUMP  [02:0xb4000077bfe6b650] state=DEQUEUED 0xb4000077bfeb54b0 frame=16747 [ 640x 360: 640,32315659]
+10-29 22:21:00.026 30089 30532 E BufferQueueProducer: BQDUMP  [03:0xb4000077bfe5b270] state=DEQUEUED 0xb4000077bfe4c2d0 frame=16748 [ 640x 360: 640,32315659]
+10-29 22:21:00.026 30089 30532 E BufferQueueProducer: BQDUMP  [05:0xb4000077bfebc2f0] state=DEQUEUED 0xb4000077bfeb7f70 frame=16749 [ 640x 360: 640,32315659]
+10-29 22:21:00.379 30089 30532 E BufferQueueProducer: BQDUMP  [05:0xb4000077bfebc2f0] state=DEQUEUED 0xb4000077bfeb7f70 frame=16749 [ 640x 360: 640,32315659]
+10-29 22:21:07.716  1017 23674 E mediaserver: unlinkToDeath: removed reference to death recipient but unlink failed.
+10-29 22:21:07.717  1017 23674 E IPCThreadState: attemptIncStrongHandle(15): Not supported
+10-29 22:21:12.182   704   818 I libPowerHal: [perfLockAcq] idx:0 hdl:56740 hint:1150 pid:735 duration:2000 lock_user:vperf@1.0-servi => ret_hdl:56740
+10-29 22:21:12.189   704   818 I libPowerHal: [perfLockAcq] idx:1 hdl:56741 hint:11 pid:704 duration:30000 lock_user:mtkpower@1.0-se => ret_hdl:56741
+10-29 22:21:12.212   704   818 I libPowerHal: [perfLockAcq] idx:2 hdl:56742 hint:1160 pid:735 duration:400 lock_user:vperf@1.0-servi => ret_hdl:56742
+10-29 22:21:12.445   704   818 I libPowerHal: [perfLockAcq] idx:3 hdl:56743 hint:1159 pid:735 duration:150 lock_user:vperf@1.0-servi => ret_hdl:56743
+10-29 22:21:12.445   735   735 I mtkpower_client: perf_lock_rel, hdl:56740, tid:735
+10-29 22:21:12.446   704   818 I libPowerHal: [perfLockRel] hdl:56740, idx:0
+10-29 22:21:12.596   704   818 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:56743
+10-29 22:21:12.596   704   818 I libPowerHal: [perfLockRel] hdl:56743, idx:3
+10-29 22:21:12.612   704   818 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:56742
+10-29 22:21:12.612   704   818 I libPowerHal: [perfLockRel] hdl:56742, idx:2
+10-29 22:21:12.615   735 32060 I mtkpower_client: perf_lock_rel, hdl:56743, tid:32060
+10-29 22:21:12.616   704   818 I libPowerHal: [perfLockRel] hdl:56743, idx:-1
+10-29 22:21:12.632   735 32056 I mtkpower_client: perf_lock_rel, hdl:56742, tid:32056
+10-29 22:21:12.633   704   818 I libPowerHal: [perfLockRel] hdl:56742, idx:-1
+10-29 22:21:16.612   674 25114 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x8
+10-29 22:21:22.224   704   818 I libPowerHal: [perfLockRel] hdl:56741, idx:1
+10-29 22:21:27.860   704   818 I libPowerHal: [perfLockAcq] idx:0 hdl:56744 hint:25 pid:704 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:56744
+10-29 22:21:27.953   704   818 I libPowerHal: [perfLockRel] hdl:56744, idx:0
+10-29 22:21:28.005   704   818 I libPowerHal: [perfLockAcq] idx:0 hdl:56745 hint:1160 pid:735 duration:500 lock_user:vperf@1.0-servi => ret_hdl:56745
+10-29 22:21:28.033   704   818 I libPowerHal: [perfLockAcq] idx:1 hdl:56746 hint:1159 pid:735 duration:150 lock_user:vperf@1.0-servi => ret_hdl:56746
+10-29 22:21:28.183   704   818 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:56746
+10-29 22:21:28.183   704   818 I libPowerHal: [perfLockRel] hdl:56746, idx:1
+10-29 22:21:28.204   735 32133 I mtkpower_client: perf_lock_rel, hdl:56746, tid:32133
+10-29 22:21:28.204   704   818 I libPowerHal: [perfLockRel] hdl:56746, idx:-1
+10-29 22:21:28.507   704   818 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:56745
+10-29 22:21:28.507   704   818 I libPowerHal: [perfLockRel] hdl:56745, idx:0
+10-29 22:21:28.526   735 32131 I mtkpower_client: perf_lock_rel, hdl:56745, tid:32131
+10-29 22:21:28.527   704   818 I libPowerHal: [perfLockRel] hdl:56745, idx:-1
+10-29 22:21:29.177   704   818 I libPowerHal: [perfLockAcq] idx:0 hdl:56747 hint:25 pid:704 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:56747
+10-29 22:21:29.258   704   818 I libPowerHal: [perfLockRel] hdl:56747, idx:0
+10-29 22:21:33.843   704   818 I libPowerHal: [perfLockAcq] idx:0 hdl:56748 hint:25 pid:704 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:56748
+10-29 22:21:33.895   704   818 I libPowerHal: [perfLockRel] hdl:56748, idx:0
+10-29 22:21:33.924   704   818 I libPowerHal: [perfLockAcq] idx:0 hdl:56749 hint:1150 pid:735 duration:2000 lock_user:vperf@1.0-servi => ret_hdl:56749
+10-29 22:21:34.147   735   735 I mtkpower_client: perf_lock_rel, hdl:56749, tid:735
+10-29 22:21:34.149   704   818 I libPowerHal: [perfLockRel] hdl:56749, idx:0
+10-29 22:21:45.917   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 22:21:45.923   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 22:22:01.674   738 13459 D APM_AudioPolicyManager: listAudioPorts mAvailableOutputDevices 0x80000004 , 0x80000040 , 0x80000080 , 0x80000100 , 0x80002000 , 0x90000000
+10-29 22:22:01.674   738 13459 D APM_AudioPolicyManager: listAudioPorts mAvailableOutputDevices 0x80000004 , 0x80000040 , 0x80000080 , 0x80000100 , 0x80002000 , 0x90000000
+10-29 22:22:41.901   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 22:22:41.907   674  6167 E AudioALSAPlaybackHandlerBase: -getHardwareBufferInfo(), pcm_get_htimestamp fail, ret = -1, pcm_get_error =  flag = 0x6
+10-29 22:22:58.674   704   818 I libPowerHal: [perfLockRel] hdl:56869, idx:0
+10-29 22:23:59.674   704   818 I libPowerHal: [perfLockAcq] idx:2 hdl:56985 hint:1159 pid:735 duration:400 lock_user:vperf@1.0-servi => ret_hdl:56985
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: Job failed with an exception, stack: 
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: X.5JL: too_early_for_training
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: 	at X.5J6.invoke(Unknown Source:363)
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: 	at X.4mX.A00(Unknown Source:39)
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: 	at kotlin.jvm.internal.KtLambdaShape2S0110000_I1.invoke(Unknown Source:56)
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: 	at X.4mX.A00(Unknown Source:39)
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: 	at X.4ea.A03(Unknown Source:17)
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: 	at com.facebook.dcp.scheduler.fb4a.FbDcpWorker.A05(Unknown Source:50)
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: 	at X.0Os.run(:2)
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1137)
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:637)
+10-29 22:24:05.674   996  1292 E fb4a.X.4e4: 	at java.lang.Thread.run(Thread.java:1012)
+10-29 22:24:09.674  1781  1839 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 22:24:32.674   738 19214 D APM_AudioPolicyManager: listAudioPorts mAvailableOutputDevices 0x80000004 , 0x80000040 , 0x80000080 , 0x80000100 , 0x80002000 , 0x90000000
+10-29 22:24:45.340   735  1674 I mtkpower_client: perf_lock_rel, hdl:57044, tid:1674
+10-29 22:25:26.674   704   818 I libPowerHal: [perfLockRel] hdl:57113, idx:-1
+10-29 22:25:49.674   704   818 I libPowerHal: [PE] MTKPOWER_HINT_APP_TOUCH update cmd:3408600 param:1
+10-29 22:26:57.674   735  2037 I mtkpower_client: perf_lock_rel, hdl:57382, tid:2037
+10-29 22:27:34.674   738  1061 D APM_AudioPolicyManager: startOutput() output 13, stream 5, session 9505
+10-29 22:27:38.674   429   429 E SELinux : avc:  denied  { find } for interface=vendor.vivo.hardware.vperf::IVPerf sid=u:r:untrusted_app:s0:c226,c256,c512,c768 pid=29485 scontext=u:r:untrusted_app:s0:c226,c256,c512,c768 tcontext=u:object_r:hal_vperf_hwservice:s0 tclass=hwservice_manager permissive=0
+10-29 22:27:38.674 29485 29511 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+10-29 22:27:47.674   704   818 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:57490
+10-29 22:27:59.674   735  2664 I mtkpower_client: perf_lock_rel, hdl:57589, tid:2664
+10-29 22:28:00.823   735  2674 I mtkpower_client: perf_lock_rel, hdl:57604, tid:2674
+10-29 22:28:04.674   704   818 I libPowerHal: [PE] (more) /proc/net/wlan/setCAM set +prefix:CAM 1;
+10-29 22:28:29.630   704   818 I libPowerHal: [perfLockAcq] idx:1 hdl:57674 hint:25 pid:704 duration:10000 lock_user:mtkpower@1.0-se => ret_hdl:57674
+10-29 22:28:29.729   704   818 I libPowerHal: [perfLockRel] hdl:57674, idx:1
+10-29 22:28:36.551   996  2942 E fb4a.ClientRankingSignalMigration: ClientRankingSignal is null for edge: -8630073843542667423 and seen state from edge is: 0
+10-29 22:28:36.551   996  2942 E fb4a.ClientRankingSignalMigration: java.lang.Exception: ClientRankingSignal is null for edge: -8630073843542667423 and seen state from edge is: 0
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP- BufferQueue mMaxAcquiredBufferCount=1 mMaxDequeuedBufferCount=21
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP  mDequeueBufferCannotBlock=0 mAsyncMode=0
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP  mQueueBufferCanDrop=1 mLegacyBufferDrop=1
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP  default-size=[504x896] default-format=1 BQDUMP  transform-hint=00 frame-counter=12
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP  mTransformHintInUse=00 mAutoPrerotation=0
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMPFIFO(1):
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP(mConsumerName=SurfaceTexture-0-996-3, mConnectedApi=3, mConsumerUsageBits=256, mId=3e400000009, producer=[996:com.facebook.katana], consumer=[996:com.facebook.katana])
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP  11:0xb4000077bfed4ef0 crop=[0,0,432,768] xform=0x00 time=57045.7082 scale=SCALE_TO_WINDOW
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMPSlots:
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP  [00:0xb4000077bfed6d50] state=DEQUEUED 0xb4000077bff0b010 frame=0 [ 432x 768: 448,7F000001]
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP  [01:0xb4000077bff0b6d0] state=DEQUEUED 0xb4000077bff16ad0 frame=6 [ 432x 768: 448,32315659]
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP >[02:0xb4000077bff0ebb0] state=ACQUIRED 0xb4000077bff17bb0 frame=11 [ 432x 768: 448,32315659]
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP  [03:0xb4000077bff35430] state=DEQUEUED 0xb4000077bff32f10 frame=2 [ 432x 768: 448,32315659]
+10-29 22:28:51.674   996  1483 E BufferQueueProducer: BQDUMP  
+10-29 22:29:21.796  6676  6742 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class android.view.OrientationEventListener$SensorEventListenerImpl num: 0
+10-29 22:29:21.990  6676  6742 E _V_SensorManager: registerListenerImpl type:9 strType=android.sensor.gravity delay:200000 maxLatency:0 by: class com.google.android.libraries.lens.view.au.c num: 0
+10-29 22:29:22.276  6676  6741 E native  : E1029 22:29:22.276055    6741 view_manager_utils.cc:126] Display geometry has an invalid width: 0
+10-29 22:29:25.372  6676  6745 E _V_SensorManager: unregisterListenerImpl listener=com.google.android.libraries.lens.view.au.c@fb9f154sensor=NULL num: 2
+10-29 22:29:26.592  6676  6744 E _V_SensorManager: unregisterListenerImpl listener=android.view.OrientationEventListener$SensorEventListenerImpl@8b42536sensor=NULL num: 1
+10-29 22:29:40.771  6676  6742 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class android.view.OrientationEventListener$SensorEventListenerImpl num: 0
+10-29 22:29:51.418  6676  6742 E _V_SensorManager: unregisterListenerImpl listener=android.view.OrientationEventListener$SensorEventListenerImpl@5c4f87fsensor=NULL num: 1
+10-29 22:29:51.674  1781  6958 E VgcUtil : getFile name :theme_dir_pathnot exit in vgc_path_config.xml
+10-29 22:30:04.674   735   735 I mtkpower_client: perf_lock_rel, hdl:57955, tid:735
+10-29 22:30:09.095  6676  6744 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class android.view.OrientationEventListener$SensorEventListenerImpl num: 0
+10-29 22:30:19.472   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_acc(720/g) 51, 718, -197 ts 94527546747
+10-29 22:30:30.444  6676  6745 E _V_SensorManager: unregisterListenerImpl listener=android.view.OrientationEventListener$SensorEventListenerImpl@cbfd486sensor=NULL num: 1
+10-29 22:30:55.187  6676  6744 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class android.view.OrientationEventListener$SensorEventListenerImpl num: 0
+10-29 22:31:20.463  6676  6745 E _V_SensorManager: registerListenerImpl type:1 strType=android.sensor.accelerometer delay:66667 maxLatency:0 by: class android.view.OrientationEventListener$SensorEventListenerImpl num: 0
+10-29 22:31:29.211  6676  6745 E _V_SensorManager: unregisterListenerImpl listener=android.view.OrientationEventListener$SensorEventListenerImpl@fb393acsensor=NULL num: 1
+10-29 22:31:50.674   712   712 E _V_VAF_CONTEXT: vivo_algo_context.cpp:86 getImageModule() getImageModule find Image module 200000000000008 fail
+10-29 22:31:50.674   712   712 E _V_VAF_CONTEXT: vivo_algo_context.cpp:86 getImageModule() getImageModule find Image module 200000000000080 fail
+10-29 22:31:50.674   712   712 E _V_VAF_CONTEXT: vivo_algo_context.cpp:86 getImageModule() getImageModule find Image module 200000000002000 fail
+10-29 22:31:50.674   712   712 E _V_VAF_CONTEXT: vivo_algo_context.cpp:86 getImageModule() getImageModule find Image module 200000000004000 fail
+10-29 22:31:50.674   712   712 E _V_VAF_CONTEXT: vivo_algo_context.cpp:86 getImageModule() getImageModule find Image module 200000000010000 fail
+10-29 22:31:50.674   712   712 E _V_VAF_CONTEXT: vivo_algo_context.cpp:86 getImageModule() getImageModule find Image module 1000000000000800 fail
+10-29 22:31:58.645  6676  6741 E _V_SensorManager: unregisterListenerImpl listener=android.view.OrientationEventListener$SensorEventListenerImpl@850eb1dsensor=NULL num: 1
+10-29 22:32:41.674   745   826 E BufferQueueDebug: [SnapshotStartingWindow for taskId=242#0](this:0xb400007a0a5f9960,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'SnapshotStartingWindow for taskId=242#0'
+10-29 22:32:46.910   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_acc(720/g) 93, 713, -216 ts 94674985053
+10-29 22:32:46.923   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 9.462001, -15.912001, 36.565502  ts 94674998587 
+10-29 22:33:15.239  6676  6744 E _V_SensorManager: unregisterListenerImpl listener=android.view.OrientationEventListener$SensorEventListenerImpl@dd8c3afsensor=NULL num: 1
+10-29 22:33:25.057   735  9674 I mtkpower_client: perf_lock_rel, hdl:58468, tid:9674
+10-29 22:33:55.674   686 10246 E mtkpower_client: PowerHal_Wrap_scnReg not support!!!
+10-29 22:34:36.912   704   818 I libPowerHal: [perfLockAcq] idx:3 hdl:58674 hint:1157 pid:735 duration:80 lock_user:vperf@1.0-servi => ret_hdl:58674
+10-29 22:34:36.993   704   818 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:58674
+10-29 22:34:36.993   704   818 I libPowerHal: [perfLockRel] hdl:58674, idx:3
+10-29 22:34:37.012   735 10821 I mtkpower_client: perf_lock_rel, hdl:58674, tid:10821
+10-29 22:34:37.013   704   818 I libPowerHal: [perfLockRel] hdl:58674, idx:-1
+10-29 22:35:11.417  1017 23674 E mediaserver: unlinkToDeath: removed reference to death recipient but unlink failed.
+10-29 22:35:11.417  1017 23674 E IPCThreadState: attemptIncStrongHandle(12): Not supported
+10-29 22:39:11.712  1017 23674 E MetadataRetrieverClient: failed to extract an album art
+10-29 22:39:11.728  1017 23674 E MetadataRetrieverClient: failed to extract an album art
+10-29 22:39:13.268  1017 23674 E MetadataRetrieverClient: failed to extract an album art
+10-29 22:39:15.256  1017 23674 E MetadataRetrieverClient: failed to extract an album art
+10-29 22:39:15.310  1017 23674 E MetadataRetrieverClient: failed to extract an album art
+10-29 22:39:15.398  1017 23674 E MetadataRetrieverClient: failed to extract an album art
+10-29 22:51:12.674   965   982 E _V_vdtf : can not insert to cache because more than 128 in it
+10-29 22:55:18.600   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 12.271501, -20.271000, 25.612501  ts 96026674152 
+10-29 22:55:19.600   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 12.096001, -20.788500, 25.695002  ts 96027674826 
+10-29 22:58:08.674   726   726 E VivoSensorTest: VivoSensorTest bbk_em_sensor_main: ID 0x21 arg1 1 arg2 0 arg3 0
+10-29 22:58:08.674   726   726 E _V_VivoSensorTest: bbk_em_sensor_main start type:0x21
+10-29 22:58:08.674   726   726 E _V_VivoSensorTest: bbk_em_sensor_main: ID 0x21 args 1 0 0
+10-29 22:58:08.674   494   500 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup1: Permission denied
+10-29 22:58:09.674  3007  8644 E _V_ProxCoverNoticeService: watch view is null, no need to update minimum
+10-29 22:58:43.674  1781  1893 E _V_SensorManager: unregisterListenerImpl listener=com.android.server.display.DisplayPowerController$8@5201fdesensor=NULL num: 1
+10-29 22:58:59.674  1781  3263 I _V_Telecom: Telecom: PhoneAccountRegistrar: Modify account: [ComponentInfo{com.android.phone/com.android.services.telephony.TelephonyConnectionService}, ***, UserHandle{0}]
+10-29 23:00:08.369   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 13.629001, -15.429001, 32.674503  ts 96316442436 
+10-29 23:02:07.674  9160  9265 E bt_btm  : system/bt/main/bte_logmsg.cc:201 LogMsg: BTM_BleObserve Observe Already Active
+10-29 23:02:07.674   494   500 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup133: Permission denied
+10-29 23:02:13.674  1781  2444 E DisplayDeviceConfig: requesting nits when no mapping exists.
+10-29 23:06:06.199   690   780 E android.hardware.sensors@2.0-service.multihal-mediatek: akm_log setv_mag(uT) 14.322001, -21.646500, 29.341501  ts 96674273713 
+10-29 23:12:11.674   735 16475 I mtkpower_client: perf_lock_rel, hdl:59447, tid:16475
+10-29 23:12:11.674   704   818 I libPowerHal: [perfLockRel] hdl:59447, idx:-1
+10-29 23:39:35.561   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1053258 ms, normalFrame 17429722 ms
+10-29 23:39:36.220   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 15640 ms, totalMuteFrame 1563360 ms, normalFrame 861140 ms
+10-29 23:39:38.240   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 17660 ms, totalMuteFrame 1565380 ms, normalFrame 861140 ms
+10-29 23:39:38.563   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1053258 ms, normalFrame 17432725 ms
+10-29 23:39:40.260   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 19680 ms, totalMuteFrame 1567400 ms, normalFrame 861140 ms
+10-29 23:39:41.566   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1053258 ms, normalFrame 17435728 ms
+10-29 23:39:42.280   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 840 ms, totalMuteFrame 1569400 ms, normalFrame 861160 ms
+10-29 23:39:44.300   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 2860 ms, totalMuteFrame 1571420 ms, normalFrame 861160 ms
+10-29 23:39:44.568   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1053258 ms, normalFrame 17438730 ms
+10-29 23:39:46.321   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 4880 ms, totalMuteFrame 1573440 ms, normalFrame 861160 ms
+10-29 23:39:47.571   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1053258 ms, normalFrame 17441733 ms
+10-29 23:39:48.340   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 860 ms, totalMuteFrame 1575440 ms, normalFrame 861180 ms
+10-30 00:08:08.674   494   500 E android.system.suspend@1.0-service: Error opening kernel wakelock stats for: wakeup1: Permission denied
+10-30 00:17:24.851  1017 23674 E mediaserver: unlinkToDeath: removed reference to death recipient but unlink failed.
+10-30 00:17:24.851  1017 23674 E IPCThreadState: attemptIncStrongHandle(15): Not supported
+10-30 00:39:50.791   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 20 ms, totalMuteFrame 3736880 ms, normalFrame 2302180 ms
+10-30 00:39:51.582   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070309 ms, normalFrame 21028682 ms
+10-30 00:39:52.811   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 1400 ms, totalMuteFrame 3738480 ms, normalFrame 2302600 ms
+10-30 00:39:54.585   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070309 ms, normalFrame 21031685 ms
+10-30 00:39:54.831   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 180 ms, totalMuteFrame 3740440 ms, normalFrame 2302660 ms
+10-30 00:39:56.851   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 280 ms, totalMuteFrame 3742140 ms, normalFrame 2302980 ms
+10-30 00:39:57.588   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070309 ms, normalFrame 21034688 ms
+10-30 00:39:58.872   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 720 ms, totalMuteFrame 3743720 ms, normalFrame 2303420 ms
+10-30 00:40:00.590   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070309 ms, normalFrame 21037690 ms
+10-30 00:40:00.891   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 120 ms, totalMuteFrame 3745020 ms, normalFrame 2304140 ms
+10-30 01:05:00.674  1781  2738 D _V_VivoPowerManagerService: button light 0 222 trun off
+10-30 01:05:02.455   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 40 ms, totalMuteFrame 4719060 ms, normalFrame 2831660 ms
+10-30 01:05:03.674  1781  2073 D _V_VivoPowerManagerService: button light 0 222 trun off
+10-30 01:05:04.930   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 22542021 ms
+10-30 01:05:06.535   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 100 ms, totalMuteFrame 4721640 ms, normalFrame 2833160 ms
+10-30 01:05:07.932   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 22545024 ms
+10-30 01:05:09.674   660   927 E netd    : QUERY_RESOLV_NETID command.uid:10010, nid:0
+10-30 01:05:10.935   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 22548026 ms
+10-30 01:05:16.675   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 760 ms, totalMuteFrame 4728780 ms, normalFrame 2836160 ms
+10-30 01:05:16.940   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 22554032 ms
+10-30 01:05:19.943   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 22557034 ms
+10-30 01:05:20.674  1781  2738 D _V_VivoPowerManagerService: button light 0 222 trun off
+10-30 01:05:25.948   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 22563040 ms
+10-30 01:05:28.795   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 540 ms, totalMuteFrame 4738880 ms, normalFrame 2838180 ms
+10-30 01:05:31.954   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 22569045 ms
+10-30 01:05:32.815   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 740 ms, totalMuteFrame 4742720 ms, normalFrame 2838360 ms
+10-30 01:15:02.674  8597 23187 E SQLiteLog: (284) automatic index on total_opens_grouped(timestamp)
+10-30 01:40:03.380   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 20 ms, totalMuteFrame 6360920 ms, normalFrame 3290720 ms
+10-30 01:40:03.804   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 24640890 ms
+10-30 01:40:05.400   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 40 ms, totalMuteFrame 6362080 ms, normalFrame 3291580 ms
+10-30 01:40:06.807   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 24643893 ms
+10-30 01:40:07.480   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 20 ms, totalMuteFrame 6363340 ms, normalFrame 3292400 ms
+10-30 01:40:09.520   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 20 ms, totalMuteFrame 6364660 ms, normalFrame 3293120 ms
+10-30 01:40:09.810   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 24646896 ms
+10-30 01:40:11.540   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 80 ms, totalMuteFrame 6366100 ms, normalFrame 3293700 ms
+10-30 01:40:11.579   738  1236 D _V_vafx_muteframedetect: OutputTrack session 9865, curMuteFrame 128 ms, totalMuteFrame 1692565 ms, normalFrame 7967423 ms
+10-30 01:40:12.812   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 24649898 ms
+10-30 01:40:13.560   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 40 ms, totalMuteFrame 6367460 ms, normalFrame 3294360 ms
+10-30 01:40:15.620   674 15342 D _V_vafx_muteframedetect: AudioHwIn session 0, curMuteFrame 20 ms, totalMuteFrame 6368820 ms, normalFrame 3295060 ms
+10-30 01:40:15.815   674  6167 D _V_vafx_muteframedetect: AudioHwOut session 6, curMuteFrame 0 ms, totalMuteFrame 1070314 ms, normalFrame 24652901 ms
